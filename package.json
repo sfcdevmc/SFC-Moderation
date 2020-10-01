@@ -1,1 +1,13 @@
 
+{
+  "name": "SFC-Moderation",
+  "description": "A Moderation bot for Discord",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "SFC Development",
+      "email": "",
+      "web": ""
+    }
+  ]
+}
