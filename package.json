@@ -1,0 +1,27 @@
+{
+  "name": "sfc-moderation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFcdevmc/SFC-Moderation.git"
+  },
+  "author": "SFC Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SFcdevmc/SFC-Moderation/issues"
+  },
+  "homepage": "https://github.com/SFcdevmc/SFC-Moderation#readme",
+  "dependencies": {
+    "ajv": "^6.12.5",
+    "discord.js": "^12.3.1",
+    "fast-deep-equal": "^3.1.3",
+    "fast-json-stable-stringify": "^2.1.0",
+    "punycode": "^2.1.1",
+    "uri-js": "^4.4.0"
+  }
+}
